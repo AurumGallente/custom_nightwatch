@@ -1,0 +1,137 @@
+18:52:21.081 INFO - Launching a standalone Selenium Server
+18:52:21.924 INFO - Java: Oracle Corporation 25.51-b03
+18:52:21.924 INFO - OS: Windows 7 6.1 amd64
+18:52:22.104 INFO - v2.46.0, with Core v2.46.0. Built from revision 87c69e2
+18:52:22.600 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+18:52:22.600 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+18:52:23.993 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+18:52:23.993 INFO - Selenium Server is up and running
+18:52:25.405 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Github, browserName=firefox, javascriptEnabled=true, platform=ANY}]])
+18:52:25.575 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Github, browserName=firefox, javascriptEnabled=true, platform=ANY}]
+18:53:18.072 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Github, browserName=firefox, javascriptEnabled=true, platform=ANY}]]
+18:53:18.102 INFO - Executing: [get: https://github.com/nightwatchjs/nightwatch])
+18:53:44.825 INFO - Done: [get: https://github.com/nightwatchjs/nightwatch]
+18:53:44.837 INFO - Executing: [find elements: By.cssSelector: body])
+18:53:45.058 INFO - Done: [find elements: By.cssSelector: body]
+18:53:45.066 INFO - Executing: [is displayed: 0 [[FirefoxDriver: firefox on WINDOWS (695b3d3f-fa7a-4103-a9fb-b40a2322ad38)] -> css selector: body]])
+18:53:45.110 INFO - Done: [is displayed: 0 [[FirefoxDriver: firefox on WINDOWS (695b3d3f-fa7a-4103-a9fb-b40a2322ad38)] -> css selector: body]]
+18:53:45.119 INFO - Executing: [get title])
+18:53:45.132 INFO - Done: [get title]
+18:53:45.140 INFO - Executing: [find element: By.cssSelector: .container .breadcrumb a span])
+18:53:45.151 INFO - Done: [find element: By.cssSelector: .container .breadcrumb a span]
+18:53:45.157 INFO - Executing: [is displayed: 1 [[FirefoxDriver: firefox on WINDOWS (695b3d3f-fa7a-4103-a9fb-b40a2322ad38)] -> css selector: .container .breadcrumb a span]])
+18:53:45.201 INFO - Done: [is displayed: 1 [[FirefoxDriver: firefox on WINDOWS (695b3d3f-fa7a-4103-a9fb-b40a2322ad38)] -> css selector: .container .breadcrumb a span]]
+18:53:45.209 INFO - Executing: [find element: By.cssSelector: .container .breadcrumb a span])
+18:53:45.225 INFO - Done: [find element: By.cssSelector: .container .breadcrumb a span]
+18:53:45.230 INFO - Executing: [get text: 1 [[FirefoxDriver: firefox on WINDOWS (695b3d3f-fa7a-4103-a9fb-b40a2322ad38)] -> css selector: .container .breadcrumb a span]])
+18:53:45.268 INFO - Done: [get text: 1 [[FirefoxDriver: firefox on WINDOWS (695b3d3f-fa7a-4103-a9fb-b40a2322ad38)] -> css selector: .container .breadcrumb a span]]
+18:53:45.291 INFO - Executing: [delete session: 78e5101b-b5e5-4b98-b454-42c2c7526e2a])
+18:53:45.302 INFO - Command failed to close cleanly. Destroying forcefully (v2). org.openqa.selenium.os.UnixProcess$SeleniumWatchDog@2c02719b
+18:53:46.732 INFO - Done: [delete session: 78e5101b-b5e5-4b98-b454-42c2c7526e2a]
+18:53:46.910 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Google, browserName=firefox, javascriptEnabled=true, platform=ANY}]])
+18:53:46.913 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Google, browserName=firefox, javascriptEnabled=true, platform=ANY}]
+18:53:51.867 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Google, browserName=firefox, javascriptEnabled=true, platform=ANY}]]
+18:53:51.875 INFO - Executing: [get: http://google.no])
+18:53:54.564 INFO - Done: [get: http://google.no]
+18:53:55.571 INFO - Executing: [find elements: By.cssSelector: body])
+18:53:55.630 INFO - Done: [find elements: By.cssSelector: body]
+18:53:55.637 INFO - Executing: [find elements: By.cssSelector: #lst-ib])
+18:53:55.651 INFO - Done: [find elements: By.cssSelector: #lst-ib]
+18:53:55.655 INFO - Executing: [get value of css property: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib], display])
+18:53:55.670 INFO - Done: [get value of css property: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib], display]
+18:53:55.677 INFO - Executing: [find elements: By.cssSelector: body])
+18:53:55.691 INFO - Done: [find elements: By.cssSelector: body]
+18:53:55.698 INFO - Executing: [get element attribute: 0 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: body], class])
+18:53:55.709 INFO - Done: [get element attribute: 0 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: body], class]
+18:53:55.716 INFO - Executing: [find elements: By.cssSelector: body])
+18:53:55.736 INFO - Done: [find elements: By.cssSelector: body]
+18:53:55.741 INFO - Executing: [get element attribute: 0 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: body], class])
+18:53:55.753 INFO - Done: [get element attribute: 0 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: body], class]
+18:53:55.759 INFO - Executing: [find elements: By.cssSelector: body])
+18:53:55.772 INFO - Done: [find elements: By.cssSelector: body]
+18:53:55.776 INFO - Executing: [get element attribute: 0 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: body], class])
+18:53:55.789 INFO - Done: [get element attribute: 0 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: body], class]
+18:53:55.796 INFO - Executing: [find elements: By.cssSelector: #lst-ib])
+18:53:55.809 INFO - Done: [find elements: By.cssSelector: #lst-ib]
+18:53:55.816 INFO - Executing: [is enabled: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib]])
+18:53:55.830 INFO - Done: [is enabled: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib]]
+18:53:55.835 INFO - Executing: [find elements: By.cssSelector: #hplogo])
+18:53:55.847 INFO - Done: [find elements: By.cssSelector: #hplogo]
+18:53:55.853 INFO - Executing: [get text: 2 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #hplogo]])
+18:53:55.871 INFO - Done: [get text: 2 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #hplogo]]
+18:53:55.879 INFO - Executing: [find element: By.cssSelector: #lst-ib])
+18:53:55.895 INFO - Done: [find element: By.cssSelector: #lst-ib]
+18:53:55.917 INFO - Executing: [send keys: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib], [N, o, r, w, a, y]])
+18:53:56.207 INFO - Done: [send keys: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib], [N, o, r, w, a, y]]
+18:53:56.712 INFO - Executing: [find elements: By.cssSelector: #lst-ib])
+18:53:56.723 INFO - Done: [find elements: By.cssSelector: #lst-ib]
+18:53:56.729 INFO - Executing: [get element attribute: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib], value])
+18:53:56.741 INFO - Done: [get element attribute: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib], value]
+18:53:56.747 INFO - Executing: [find elements: By.cssSelector: #lst-ib])
+18:53:56.760 INFO - Done: [find elements: By.cssSelector: #lst-ib]
+18:53:56.765 INFO - Executing: [tag name: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib]])
+18:53:56.776 INFO - Done: [tag name: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib]]
+18:53:56.784 INFO - Executing: [find elements: By.cssSelector: #lst-ib])
+18:53:56.798 INFO - Done: [find elements: By.cssSelector: #lst-ib]
+18:53:56.802 INFO - Executing: [is selected: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib]])
+18:53:56.814 INFO - Done: [is selected: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib]]
+18:53:56.819 INFO - Executing: [find elements: By.cssSelector: #lst-ib])
+18:53:56.831 INFO - Done: [find elements: By.cssSelector: #lst-ib]
+18:53:56.835 INFO - Executing: [is displayed: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib]])
+18:53:56.850 INFO - Done: [is displayed: 1 [[FirefoxDriver: firefox on WINDOWS (6a95162d-3f99-4915-b489-12a2d2cc4f13)] -> css selector: #lst-ib]]
+18:53:56.856 INFO - Executing: [delete session: 61776233-49a1-4bcc-a66e-67ea3f98b6fa])
+18:53:56.865 INFO - Command failed to close cleanly. Destroying forcefully (v2). org.openqa.selenium.os.UnixProcess$SeleniumWatchDog@3086765c
+18:53:57.829 INFO - Done: [delete session: 61776233-49a1-4bcc-a66e-67ea3f98b6fa]
+18:53:57.979 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Google Page Object, browserName=firefox, javascriptEnabled=true, platform=ANY}]])
+18:53:57.981 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Google Page Object, browserName=firefox, javascriptEnabled=true, platform=ANY}]
+18:54:02.426 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Google Page Object, browserName=firefox, javascriptEnabled=true, platform=ANY}]]
+18:54:02.563 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Google\google Demo Test, browserName=firefox, javascriptEnabled=true, platform=ANY}]])
+18:54:02.570 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Google\google Demo Test, browserName=firefox, javascriptEnabled=true, platform=ANY}]
+18:54:29.864 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Google\google Demo Test, browserName=firefox, javascriptEnabled=true, platform=ANY}]]
+18:54:29.870 INFO - Executing: [get: http://google.com])
+18:54:34.546 INFO - Done: [get: http://google.com]
+18:54:34.554 INFO - Executing: [find elements: By.cssSelector: body])
+18:54:34.733 INFO - Done: [find elements: By.cssSelector: body]
+18:54:34.759 INFO - Executing: [find element: By.cssSelector: input[type=text]])
+18:54:34.771 INFO - Done: [find element: By.cssSelector: input[type=text]]
+18:54:34.775 INFO - Executing: [send keys: 1 [[FirefoxDriver: firefox on WINDOWS (fe657a69-87ed-4e46-86d0-45a3fd2dbb6e)] -> css selector: input[type=text]], [n, i, g, h, t, w, a, t, c, h, ?]])
+18:54:38.466 INFO - Done: [send keys: 1 [[FirefoxDriver: firefox on WINDOWS (fe657a69-87ed-4e46-86d0-45a3fd2dbb6e)] -> css selector: input[type=text]], [n, i, g, h, t, w, a, t, c, h, ?]]
+18:54:39.470 INFO - Executing: [find element: By.cssSelector: #main])
+18:54:40.232 INFO - Done: [find element: By.cssSelector: #main]
+18:54:40.237 INFO - Executing: [get text: 2 [[FirefoxDriver: firefox on WINDOWS (fe657a69-87ed-4e46-86d0-45a3fd2dbb6e)] -> css selector: #main]])
+18:54:42.375 INFO - Done: [get text: 2 [[FirefoxDriver: firefox on WINDOWS (fe657a69-87ed-4e46-86d0-45a3fd2dbb6e)] -> css selector: #main]]
+18:54:42.381 INFO - Executing: [delete session: 85f4e29b-bd6c-4111-b600-fea495bb01ef])
+18:54:42.397 INFO - Command failed to close cleanly. Destroying forcefully (v2). org.openqa.selenium.os.UnixProcess$SeleniumWatchDog@235d1f02
+18:54:43.098 INFO - Done: [delete session: 85f4e29b-bd6c-4111-b600-fea495bb01ef]
+18:54:43.342 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Onbeforeunload, browserName=firefox, javascriptEnabled=true, platform=ANY}]])
+18:54:43.348 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Onbeforeunload, browserName=firefox, javascriptEnabled=true, platform=ANY}]
+18:55:07.033 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Onbeforeunload, browserName=firefox, javascriptEnabled=true, platform=ANY}]]
+18:55:07.042 INFO - Executing: [get: http://www.4guysfromrolla.com/demos/OnBeforeUnloadDemo1.htm])
+18:55:08.703 INFO - Done: [get: http://www.4guysfromrolla.com/demos/OnBeforeUnloadDemo1.htm]
+18:55:08.708 INFO - Executing: [find elements: By.cssSelector: body])
+18:55:08.767 INFO - Done: [find elements: By.cssSelector: body]
+18:55:08.774 INFO - Executing: [is displayed: 0 [[FirefoxDriver: firefox on WINDOWS (5c49824c-d33b-4aed-b7b3-f283a0d89890)] -> css selector: body]])
+18:55:08.785 INFO - Done: [is displayed: 0 [[FirefoxDriver: firefox on WINDOWS (5c49824c-d33b-4aed-b7b3-f283a0d89890)] -> css selector: body]]
+18:55:08.796 INFO - Executing: [execute script: var passedArgs = Array.prototype.slice.call(arguments,0); return function () {
+    return window && typeof window.onbeforeunload === 'function';
+  }.apply(window, passedArgs);, []])
+18:55:08.810 INFO - Done: [execute script: var passedArgs = Array.prototype.slice.call(arguments,0); return function () {
+    return window && typeof window.onbeforeunload === 'function';
+  }.apply(window, passedArgs);, []]
+18:55:08.818 INFO - Executing: [get: http://google.com])
+18:55:08.904 INFO - Done: [get: http://google.com]
+18:55:08.908 INFO - Executing: [accept alert])
+18:55:08.985 INFO - Done: [accept alert]
+18:55:08.999 INFO - Executing: [find elements: By.cssSelector: body])
+18:55:10.698 INFO - Done: [find elements: By.cssSelector: body]
+18:55:10.705 INFO - Executing: [is displayed: 1 [[FirefoxDriver: firefox on WINDOWS (5c49824c-d33b-4aed-b7b3-f283a0d89890)] -> css selector: body]])
+18:55:10.715 INFO - Done: [is displayed: 1 [[FirefoxDriver: firefox on WINDOWS (5c49824c-d33b-4aed-b7b3-f283a0d89890)] -> css selector: body]]
+18:55:10.722 INFO - Executing: [get: http://nightwatchjs.org])
+18:55:13.992 INFO - Done: [get: http://nightwatchjs.org]
+18:55:14.001 INFO - Executing: [find elements: By.cssSelector: body])
+18:55:14.018 INFO - Done: [find elements: By.cssSelector: body]
+18:55:14.027 INFO - Executing: [is displayed: 2 [[FirefoxDriver: firefox on WINDOWS (5c49824c-d33b-4aed-b7b3-f283a0d89890)] -> css selector: body]])
+18:55:14.037 INFO - Done: [is displayed: 2 [[FirefoxDriver: firefox on WINDOWS (5c49824c-d33b-4aed-b7b3-f283a0d89890)] -> css selector: body]]
+18:55:14.048 INFO - Executing: [delete session: 1217081f-ec0e-48ef-9aef-9883bd126f59])
+18:55:14.059 INFO - Command failed to close cleanly. Destroying forcefully (v2). org.openqa.selenium.os.UnixProcess$SeleniumWatchDog@1b7ffc84
+18:55:14.448 INFO - Done: [delete session: 1217081f-ec0e-48ef-9aef-9883bd126f59]
